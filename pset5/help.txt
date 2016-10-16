@@ -1,0 +1,13 @@
+./speller dictionaries/small texts/quote.txt
+
+
+~cs50/pset5/speller texts/quote.txt
+
+./speller texts/quote.txt
+
+wanker = 333
+
+douglas = 4948
+
+
+p hashtable[hashvalue] -> word

@@ -1,0 +1,1 @@
+<h2>Current stock price for <?= $company ?> is <?= number_format($price, 2) ?> USD</h2>

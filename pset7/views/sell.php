@@ -1,0 +1,2 @@
+<img src="https://yogafaith.org/wp-content/uploads/2016/03/congratulations-1.gif" alt="Congratulations!"  width="608">
+<p>You sold <?= number_format($shares, 2) ?> shares of <?= $company ?> that are worth $<?= number_format($price, 2) ?> </p>
